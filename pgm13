@@ -1,0 +1,9 @@
+# print the digits of the three digits number
+a=int(input('a=?'))
+c=a%10
+d=a//10
+e=d%10
+f=d//10
+print(c)
+print(e)
+print(f)
