@@ -5,4 +5,4 @@ d=a//10
 e=d%10
 f=d//10
 h=c*100+e*10+f
-print(h)
+print("Reverse a three digit no:",h)

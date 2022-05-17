@@ -2,4 +2,4 @@
 l=10
 w=5
 a=l*w
-print(a)
+print('product of two integer:',a)

@@ -2,4 +2,4 @@
 r=int(input('r=?'))
 h=int(input('h=?'))
 v=22/7*r**2*h
-print(v)
+print("volume of cylinder:",v)

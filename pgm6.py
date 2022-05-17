@@ -2,5 +2,5 @@
 c=int(input('c=?'))
 d=int(input('d=?'))
 m=c*d
-print(m)
+print("product of two real no:",m)
 

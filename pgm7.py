@@ -2,4 +2,4 @@
 l=int(input('l=?'))
 w=int(input('w=?'))
 a=l*w
-print(a)
+print('area of rectangle:',a)
